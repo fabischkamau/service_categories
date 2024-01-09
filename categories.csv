@@ -3,7 +3,7 @@ id,categories
 2,Swimming Pools & Hot Tubs
 3,Academic Lessons
 4,Music Services
-5,"Locksmith, Security & Fire Safety"
+5,Locksmith, Security & Fire Safety
 6,Performance Arts Lessons
 7,General Accounting
 8,Occupational Lessons
@@ -12,25 +12,25 @@ id,categories
 11,Advertising and Media Buying
 12,Copywriting Services
 13,Photography Services
-14,"Aerial, Home Cinema & Networking"
+14,Aerial Home Cinema & Networking"
 15,Marketing Services
 16,Digital Marketing Services
-17,"Heating, Hot Water & Air Conditioning"
+17,Heating, Hot Water & Air Conditioning
 18,Repair & Technical Support
 19,Transport
 20,Entertainment
 21,Electrical & Lighting
 22,Plumbing & Drainage
 23,Language Classes
-24,"Writing, Translation and Transcription"
+24,Writing, Translation and Transcription
 25,Employment Law
 26,Gardening & Landscaping
 27,Recreational Lessons
-28,"Architects, Surveyors & Planners"
+28,Architects Surveyors & Planners
 29,Crafts
 30,Builders
 31,Specialist Tradesmen
-32,"Driveways, Decking, Patios & Porches"
+32,Driveways Decking, Patios & Porches
 33,Personal
 34,Arts & Crafts Lessons
 35,Business Essentials
@@ -47,7 +47,7 @@ id,categories
 46,Flooring
 47,Handyman Services
 48,Pest Control Services
-49,"Windows, Doors & Conservatories"
+49,Windows Doors & Conservatories
 50,Ironmongery & Blacksmiths
 51,Online Content
 52,Printing Services
@@ -63,7 +63,7 @@ id,categories
 62,Telecommunication Services
 63,Branding
 64,Kitchens
-65,"Fashion, Clothing & Textiles"
+65,Fashion, Clothing & Textiles
 66,Development and Software
 67,Event and Travel Services
 68,Commercial Law
