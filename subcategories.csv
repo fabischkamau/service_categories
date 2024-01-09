@@ -89,7 +89,7 @@ num,subcategories,sid
 88,Wedding Music Bands,4
 89,Access Control & Door Entry,5
 90,Automated Gates & Bollards,5
-91,"Burglar, Security & Intruder Alarm Installation",5
+91,Burglar, Security & Intruder Alarm Installation,5
 92,CCTV Installation,5
 93,External Shutter Installation,5
 94,Fire Alarm System Installation,5
@@ -185,7 +185,7 @@ num,subcategories,sid
 184,AV Equipment Rental for Events,9
 185,Boudoir Photography,9
 186,Commercial & Corporate Photographers,9
-187,"Commercial, Movie, or Music Videography",9
+187,Commercial Movie, or Music Videography,9
 188,Craft Party Planning,9
 189,Event & Party Photography,9
 190,Event & Party Planners,9
@@ -283,7 +283,7 @@ num,subcategories,sid
 282,Headshot Photographers,12
 283,Models,12
 284,Nature Photography,12
-285,"Passport, Visa and ID Photography",12
+285,Passport Visa and ID Photography,12
 286,Pet Photography,12
 287,Photo Scanning,12
 288,Photography Assistants,12
@@ -296,8 +296,8 @@ num,subcategories,sid
 295,Aerial Installation,13
 296,Aerial Repairs & Maintenance,13
 297,Digital Home Networking,13
-298,"Electronic Blinds, Shutters & Curtains Installation",13
-299,"Electronic Blinds, Shutters & Curtains Repair",13
+298,Electronic Blinds Shutters & Curtains Installation,13
+299,Electronic Blinds Shutters & Curtains Repair,13
 300,Home Automation Services,13
 301,Satellite & Set Top Boxes,13
 302,Thermostat Installation & Repair,13
@@ -373,7 +373,7 @@ num,subcategories,sid
 372,Lawn Mower Repair,17
 373,Medical Equipment Repair,17
 374,Mobile Phone Unlocking,17
-375,"Network, Database and IT Support",17
+375,Network Database and IT Support,17
 376,Phone or Tablet Repair,17
 377,Pool Table Repair Services,17
 378,Pressure Washer Repair,17
@@ -433,14 +433,14 @@ num,subcategories,sid
 432,Ceiling Fan Installation and Repair,20
 433,Electrical Inspections & PAT Testing,20
 434,Electricians,20
-435,"Electronic Blinds, Shutters & Curtains Installation",20
-436,"Electronic Blinds, Shutters & Curtains Repair",20
+435,Electronic Blinds Shutters & Curtains Installation,20
+436,Electronic Blinds Shutters & Curtains Repair,20
 437,Fan Installation,20
 438,Fan Service & Repair,20
 439,Generator Repair,20
 440,Generator Services,20
 441,Holiday Lighting Installation,20
-442,"Hot Tub and Spa Installation, Maintenance & Cleaning",20
+442,Hot Tub and Spa Installation Maintenance & Cleaning,20
 443,Hot Tub and Spa Repair,20
 444,Interior Lighting Designer,20
 445,Interior Lighting Installation,20
@@ -481,17 +481,17 @@ num,subcategories,sid
 480,Gutter Cleaning,21
 481,Gutter Installation or Replacement,21
 482,Gutter Repairs & Maintenance,21
-483,"Hot Tub and Spa Installation, Maintenance & Cleaning",21
+483,Hot Tub and Spa Installation Maintenance & Cleaning,21
 484,Hot Tub and Spa Repair,21
 485,Pipe-fitters,21
 486,Plumbing Pipe Repair,21
-487,"Sealing, Grouting & Caulking",21
+487,Sealing Grouting & Caulking,21
 488,Septic Tanks & Soakaway Installation,21
 489,Septic Tanks & Soakaway Repair & Maintenance,21
 490,Shower Installation,21
 491,Soil Irrigation & Drainage,21
 492,Taps & Fixtures Installation,21
-493,"Taps, Fixtures & Pipes Maintenance",21
+493,Taps Fixtures & Pipes Maintenance,21
 494,Thermostat Installation & Repair,21
 495,Under Floor Heating - Water System Repair & Maintenance,21
 496,Under Floor Heating Installation,21
@@ -556,7 +556,7 @@ num,subcategories,sid
 555,Writing Services,22
 556,Arbitration Services,23
 557,Employment Law Specialists,23
-558,"Arbor, Pergola, & Trellis Installation",24
+558,Arbor Pergola & Trellis Installation,24
 559,Artificial Grass Installation,24
 560,Artificial Turf Repair,24
 561,Awning Installation,24
@@ -576,7 +576,7 @@ num,subcategories,sid
 575,Grass Cutting,24
 576,Greenhouse Construction,24
 577,Hot Tub and Spa Cleaning,24
-578,"Hot Tub and Spa Installation, Maintenance & Cleaning",24
+578,Hot Tub and Spa Installation, Maintenance & Cleaning,24
 579,Hot Tub and Spa Repair,24
 580,Ironing Services,24
 581,Landscape Design,24
@@ -595,7 +595,7 @@ num,subcategories,sid
 594,Security Fence Installation,24
 595,Snow Ploughing,24
 596,Soil Irrigation & Drainage,24
-597,"Tree and Shrub Planting, Maintenance, or Removal",24
+597,Tree and Shrub Planting, Maintenance, or Removal,24
 598,Tree Surgery & Removal,24
 599,Well System Work,24
 600,Wildlife Control,24
@@ -741,7 +741,7 @@ num,subcategories,sid
 740,Patio Services,28
 741,Pebble Dash Application,28
 742,Porch Installation,28
-743,"Porch, Patio & Canopy Installation",28
+743,Porch Patio & Canopy Installation,28
 744,Post Construction Property Cleanup,28
 745,Property Extensions,28
 746,Repointing,28
@@ -795,7 +795,7 @@ num,subcategories,sid
 794,Sports Surface Installation,29
 795,Sports Surface Maintenance,29
 796,Thatched Roof Installation,29
-797,"Timber Preservation, Woodworm & Rot",29
+797,Timber Preservation Woodworm & Rot,29
 798,Waste Management,29
 799,Water Damage Cleanup and Restoration,29
 800,Asphalt Installation,30
@@ -810,7 +810,7 @@ num,subcategories,sid
 809,Gazebo Repair and Maintenance,30
 810,Patio Cover Repair and Maintenance,30
 811,Patio Services,30
-812,"Porch, Patio & Canopy Installation",30
+812,Porch, Patio & Canopy Installation,30
 813,Pressure Washing,30
 814,Astrology Reading,31
 815,Au Pair Agencies,31
@@ -1109,8 +1109,8 @@ num,subcategories,sid
 1108,Shelving Installation,46
 1109,Switches and Outlets,46
 1110,Taps & Fixtures Installation,46
-1111,"Taps, Fixtures & Pipes Maintenance",46
-1112,"Tree and Shrub Planting, Maintenance, or Removal",46
+1111,Taps Fixtures & Pipes Maintenance,46
+1112,Tree and Shrub Planting, Maintenance or Removal,46
 1113,TV & Home Theatre Installation or Mounting,46
 1114,TV Installation & Mounting,46
 1115,Vinyl or Linoleum Repair,46
@@ -1140,7 +1140,7 @@ num,subcategories,sid
 1139,Storm Windows,48
 1140,Velux / Skylight Window Installation,48
 1141,Window Blinds,48
-1142,"Window Blinds, Shutters & Curtains",48
+1142,Window Blinds Shutters & Curtains,48
 1143,Window Cleaners,48
 1144,Window Fitters,48
 1145,Window Protection & Treatments,48
@@ -1318,7 +1318,7 @@ num,subcategories,sid
 1317,Kitchen Refurbishment,63
 1318,Kitchen Tiling,63
 1319,Plumbing Pipe Repair,63
-1320,"Sealing, Grouting & Caulking",63
+1320,Sealing, Grouting & Caulking,63
 1321,Stone or Tile Flooring Installation,63
 1322,Stone or Tile Flooring Repair,63
 1323,Tile and Grout Cleaning,63
@@ -1351,7 +1351,7 @@ num,subcategories,sid
 1350,Leaflet Delivery,68
 1351,Mail Delivery,68
 1352,Parcel Delivery,68
-1353,"Coving, Cornice, Trim, & Moulding",69
+1353,Coving, Cornice, Trim, & Moulding,69
 1354,Exterior Painting,69
 1355,Interior Plastering & Rendering,69
 1356,Mural Painting,69
